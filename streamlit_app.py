@@ -17,10 +17,10 @@ import plotly.graph_objects as go
 
 # Import base64 image data
 try:
-    from entity_base64_images_simple import entity_base64_images_simple as entity_base64_images_complete
+    from entity_base64_images_complete import entity_base64_images_complete
 except ImportError:
     try:
-        from entity_base64_images_complete import entity_base64_images_complete
+        from entity_base64_images_simple import entity_base64_images_simple as entity_base64_images_complete
     except ImportError:
         # Fallback if the file doesn't exist
         entity_base64_images_complete = {}
@@ -46,7 +46,6 @@ def load_sentiment_data():
         try:
             with open(file_path, "r") as f:
                 data = json.load(f)
-                st.success(f"✅ Successfully loaded sentiment data from {file_path}")
                 return data
         except FileNotFoundError:
             continue
@@ -82,7 +81,6 @@ def load_document_set_id():
         try:
             with open(file_path, "r") as f:
                 doc_id = f.read().strip()
-                st.success(f"✅ Successfully loaded document set ID from {file_path}")
                 return doc_id
         except FileNotFoundError:
             continue
