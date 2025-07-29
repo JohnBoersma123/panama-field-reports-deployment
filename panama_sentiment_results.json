@@ -1,0 +1,195 @@
+{
+  "documents": [
+    {
+      "document_id": "raw_text_c2f1edbc-951b-4da6-9be3-c73925ccd5c4",
+      "text": "DOCUMENT: Field_Report_1.pdf\n\nField Report - May 01, 2025\nCity: Penonom\u00e9\nOn May 01, 2025, a transportation policy protest erupted in Penonom\u00e9, drawing approximately 709\ndemonstrators. The protest was largely peaceful, though tensions briefly escalated when law\nenforcement attempted to redirect marchers away from government buildings. Protesters voiced\nstrong criticism of President Jos\u00e9 Ra\u00fal Mulino, accusing them of negligence and corruption.\nOrganizers stated their intent to continue demonstrations until their demands are addressed. No\nmajor injuries were reported, but several participants were briefly detained for questioning. Further\ndevelopments are expected in the coming days.",
+      "entities": {
+        "6e08cc7e-4aed-48c0-b637-0f22d85bea9b": {
+          "entity_id": "6e08cc7e-4aed-48c0-b637-0f22d85bea9b",
+          "entity_name": "Jos\u00e9 Ra\u00fal Mulino",
+          "entity_type": "PER",
+          "is_resolved": false,
+          "count": 0,
+          "spans": [
+            {
+              "start": 384,
+              "end": 400,
+              "is_clean": true
+            }
+          ],
+          "sentiment": "negative"
+        }
+      }
+    },
+    {
+      "document_id": "raw_text_21d345dc-bac6-49b8-9d35-ad5e692bce66",
+      "text": "DOCUMENT: Field_Report_10.pdf\n\nField Report - June 27, 2025\nCity: Boquete\nOn June 27, 2025, a anti-government protest erupted in Boquete, drawing approximately 554\ndemonstrators. The protest was largely peaceful, though tensions briefly escalated when law\nenforcement attempted to redirect marchers away from government buildings. Protesters voiced\nstrong criticism of President Jos\u00e9 Ra\u00fal Mulino, Defense Chief Ana Rojas, accusing them of\nnegligence and corruption. Organizers stated their intent to continue demonstrations until their\ndemands are addressed. No major injuries were reported, but several participants were briefly\ndetained for questioning. Further developments are expected in the coming days.",
+      "entities": {
+        "e6c55fe4-94f1-4eb4-8d39-e180843b4f07": {
+          "entity_id": "e6c55fe4-94f1-4eb4-8d39-e180843b4f07",
+          "entity_name": "Jos\u00e9 Ra\u00fal Mulino",
+          "entity_type": "PER",
+          "is_resolved": false,
+          "count": 0,
+          "spans": [
+            {
+              "start": 379,
+              "end": 395,
+              "is_clean": true
+            }
+          ],
+          "sentiment": "negative"
+        },
+        "bec0d662-e981-4546-bc59-b2674ac1d235": {
+          "entity_id": "bec0d662-e981-4546-bc59-b2674ac1d235",
+          "entity_name": "Ana Rojas",
+          "entity_type": "PER",
+          "is_resolved": false,
+          "count": 0,
+          "spans": [
+            {
+              "start": 411,
+              "end": 420,
+              "is_clean": true
+            }
+          ],
+          "sentiment": "negative"
+        }
+      }
+    },
+    {
+      "document_id": "raw_text_9795ebf1-fc9a-4c7e-97cf-15ac7b386a21",
+      "text": "DOCUMENT: Field_Report_2.pdf\n\nField Report - November 16, 2024\nCity: David\nOn November 16, 2024, a transportation policy protest erupted in David, drawing approximately 629\ndemonstrators. The protest was largely peaceful, though tensions briefly escalated when law\nenforcement attempted to redirect marchers away from government buildings. Protesters voiced\nstrong criticism of Defense Chief Ana Rojas, Vice President Marta Linares, accusing them of\nnegligence and corruption. Organizers stated their intent to continue demonstrations until their\ndemands are addressed. No major injuries were reported, but several participants were briefly\ndetained for questioning. Further developments are expected in the coming days.",
+      "entities": {
+        "30dd609a-5e7e-4ed6-a94a-4b73bac6570e": {
+          "entity_id": "30dd609a-5e7e-4ed6-a94a-4b73bac6570e",
+          "entity_name": "Ana Rojas",
+          "entity_type": "PER",
+          "is_resolved": false,
+          "count": 0,
+          "spans": [
+            {
+              "start": 392,
+              "end": 401,
+              "is_clean": true
+            }
+          ],
+          "sentiment": "negative"
+        },
+        "206c96f5-4964-4f00-a96f-eaa0cbaaa576": {
+          "entity_id": "206c96f5-4964-4f00-a96f-eaa0cbaaa576",
+          "entity_name": "Marta Linares",
+          "entity_type": "PER",
+          "is_resolved": false,
+          "count": 0,
+          "spans": [
+            {
+              "start": 418,
+              "end": 431,
+              "is_clean": true
+            }
+          ],
+          "sentiment": "negative"
+        }
+      }
+    },
+    {
+      "document_id": "raw_text_a8ac4d17-c173-4a84-a2cf-4cc2d64911d0",
+      "text": "DOCUMENT: Field_Report_3.pdf\n\nField Report - February 23, 2025\nCity: Aguadulce\nOn February 23, 2025, a student-led protest erupted in Aguadulce, drawing approximately 222\ndemonstrators. The protest was largely peaceful, though tensions briefly escalated when law\nenforcement attempted to redirect marchers away from government buildings. Protesters voiced\nstrong criticism of Minister of the Interior Carlos M\u00e9ndez, accusing them of negligence and\ncorruption. Organizers stated their intent to continue demonstrations until their demands are\naddressed. No major injuries were reported, but several participants were briefly detained for\nquestioning. Further developments are expected in the coming days.",
+      "entities": {
+        "535a0e21-c1b9-4fd2-af7e-2b8072770575": {
+          "entity_id": "535a0e21-c1b9-4fd2-af7e-2b8072770575",
+          "entity_name": "Carlos M\u00e9ndez",
+          "entity_type": "PER",
+          "is_resolved": false,
+          "count": 0,
+          "spans": [
+            {
+              "start": 401,
+              "end": 414,
+              "is_clean": true
+            }
+          ],
+          "sentiment": "negative"
+        }
+      }
+    },
+    {
+      "document_id": "raw_text_0970cb55-3af7-4423-9549-ce1a9c3272a8",
+      "text": "DOCUMENT: Field_Report_4.pdf\n\nField Report - June 06, 2025\nCity: Las Tablas\nOn June 06, 2025, a transportation policy protest erupted in Las Tablas, drawing approximately 651\ndemonstrators. The protest was largely peaceful, though tensions briefly escalated when law\nenforcement attempted to redirect marchers away from government buildings. Organizers stated\ntheir intent to continue demonstrations until their demands are addressed. No major injuries were\nreported, but several participants were briefly detained for questioning. Further developments are\nexpected in the coming days.",
+      "entities": {}
+    },
+    {
+      "document_id": "raw_text_4cb75bff-2619-40c3-b514-2c90c80c917f",
+      "text": "DOCUMENT: Field_Report_5.pdf\n\nField Report - January 09, 2025\nCity: Las Tablas\nOn January 09, 2025, a transportation policy protest erupted in Las Tablas, drawing approximately\n300 demonstrators. The protest was largely peaceful, though tensions briefly escalated when law\nenforcement attempted to redirect marchers away from government buildings. Organizers stated\ntheir intent to continue demonstrations until their demands are addressed. No major injuries were\nreported, but several participants were briefly detained for questioning. Further developments are\nexpected in the coming days.",
+      "entities": {}
+    },
+    {
+      "document_id": "raw_text_c09485a7-1902-4f76-927b-7bfe1f84fb55",
+      "text": "DOCUMENT: Field_Report_6.pdf\n\nField Report - September 29, 2024\nCity: Aguadulce\nOn September 29, 2024, a environmental protest erupted in Aguadulce, drawing approximately 934\ndemonstrators. The protest was largely peaceful, though tensions briefly escalated when law\nenforcement attempted to redirect marchers away from government buildings. Protesters voiced\nstrong criticism of Defense Chief Ana Rojas, Minister of the Interior Carlos M\u00e9ndez, accusing them\nof negligence and corruption. Organizers stated their intent to continue demonstrations until their\ndemands are addressed. No major injuries were reported, but several participants were briefly\ndetained for questioning. Further developments are expected in the coming days.",
+      "entities": {
+        "fa4f1987-09b5-4d40-b249-d2815cabc01e": {
+          "entity_id": "fa4f1987-09b5-4d40-b249-d2815cabc01e",
+          "entity_name": "Ana Rojas",
+          "entity_type": "PER",
+          "is_resolved": false,
+          "count": 0,
+          "spans": [
+            {
+              "start": 394,
+              "end": 403,
+              "is_clean": true
+            }
+          ],
+          "sentiment": "negative"
+        },
+        "43074152-32f3-4335-99ad-c373fdc9745e": {
+          "entity_id": "43074152-32f3-4335-99ad-c373fdc9745e",
+          "entity_name": "Carlos M\u00e9ndez",
+          "entity_type": "PER",
+          "is_resolved": false,
+          "count": 0,
+          "spans": [
+            {
+              "start": 430,
+              "end": 443,
+              "is_clean": true
+            }
+          ],
+          "sentiment": "negative"
+        }
+      }
+    },
+    {
+      "document_id": "raw_text_dc30132c-00e4-47ad-982d-1e4823fb7604",
+      "text": "DOCUMENT: Field_Report_7.pdf\n\nField Report - January 26, 2025\nCity: Panama City\nOn January 26, 2025, a anti-government protest erupted in Panama City, drawing approximately\n759 demonstrators. The protest was largely peaceful, though tensions briefly escalated when law\nenforcement attempted to redirect marchers away from government buildings. Organizers stated\ntheir intent to continue demonstrations until their demands are addressed. No major injuries were\nreported, but several participants were briefly detained for questioning. Further developments are\nexpected in the coming days.",
+      "entities": {}
+    },
+    {
+      "document_id": "raw_text_f05c1795-b87c-470e-8799-930b7b3054a9",
+      "text": "DOCUMENT: Field_Report_8.pdf\n\nField Report - October 26, 2024\nCity: Penonom\u00e9\nOn October 26, 2024, a transportation policy protest erupted in Penonom\u00e9, drawing approximately\n211 demonstrators. The protest was largely peaceful, though tensions briefly escalated when law\nenforcement attempted to redirect marchers away from government buildings. Organizers stated\ntheir intent to continue demonstrations until their demands are addressed. No major injuries were\nreported, but several participants were briefly detained for questioning. Further developments are\nexpected in the coming days.",
+      "entities": {}
+    },
+    {
+      "document_id": "raw_text_b34f05ca-0c46-4941-a62c-52284bdadb9e",
+      "text": "DOCUMENT: Field_Report_9.pdf\n\nField Report - June 28, 2025\nCity: Chitr\u00e9\nOn June 28, 2025, a labor rights protest erupted in Chitr\u00e9, drawing approximately 218\ndemonstrators. The protest was largely peaceful, though tensions briefly escalated when law\nenforcement attempted to redirect marchers away from government buildings. Protesters voiced\nstrong criticism of Defense Chief Ana Rojas, accusing them of negligence and corruption.\nOrganizers stated their intent to continue demonstrations until their demands are addressed. No\nmajor injuries were reported, but several participants were briefly detained for questioning. Further\ndevelopments are expected in the coming days.",
+      "entities": {
+        "fc1f15d3-3c4f-4f4a-8257-ffd84e010e56": {
+          "entity_id": "fc1f15d3-3c4f-4f4a-8257-ffd84e010e56",
+          "entity_name": "Ana Rojas",
+          "entity_type": "PER",
+          "is_resolved": false,
+          "count": 0,
+          "spans": [
+            {
+              "start": 377,
+              "end": 386,
+              "is_clean": true
+            }
+          ],
+          "sentiment": "negative"
+        }
+      }
+    }
+  ]
+}
